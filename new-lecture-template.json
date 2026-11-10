@@ -1,0 +1,20 @@
+{
+  "id": "HV-YYYY-MM-D02",
+  "date": "YYYY-MM-DD",
+  "day": 2,
+  "title": "실제 강의 제목을 입력",
+  "summary": "원문에 근거한 짧은 소개를 입력",
+  "tags": [
+    "주제1",
+    "주제2"
+  ],
+  "status": "검수 완료",
+  "source": "자담인 7DAY 챌린지 · 최송철 원장",
+  "sections": [
+    {
+      "heading": "첫 번째 연구 주제",
+      "text": "검수한 주민용 강의 내용을 입력",
+      "quote": ""
+    }
+  ]
+}
